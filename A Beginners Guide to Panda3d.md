@@ -1,5 +1,5 @@
 ---
-title: "A Beginner's Guide to Panda3D"
+title: "A Beginner's Guide to Panda3D test"
 desc: "Panda3D is an open-source 3D game engine developed by Disney and maintained by Carnegie Mellon University's Entertainment Technology Center. It is designed to be easy to use and powerful enough to create high-quality 3D games, simulations, and visualizations. This tutorial will provide an overview of Panda3D, explain how to get started with it, demonstrate a quick game made with Panda3D, and provide a conclusion about Panda3D."
 date: "12/20/2022"
 readTime: "5-10 Min"
