@@ -1,22 +1,12 @@
 ---
-
 title: "Data Structures"
-
 desc: "This article provides an overview of data structures, which are ways of organizing and storing data in a computer so that it can be accessed and modified efficiently. The article covers several common data structures, including arrays, linked lists, stacks, queues, trees, and hash tables, and provides examples of how to create and manipulate these data structures in Python. The article explains the strengths and weaknesses of each data structure, and discusses when it is most appropriate to use each one. Choosing the right data structure for a particular task can greatly improve the efficiency and performance of an application."
-
 date: "12/25/2022"
-
 readTime: "5-10 Min"
-
 tags: 
-
 - "article"
-
 - "python"
-
 ---
-
-
 
 A data structure is a way of organizing and storing data in a computer so that it can be accessed and modified efficiently. Different types of data structures are suited to different kinds of applications, and some are highly specialized to specific tasks. Some common data structures include:
 
